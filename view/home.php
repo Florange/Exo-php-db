@@ -7,7 +7,7 @@
         <span><a class="btn" href="index.php?page=articles&action=delete&item=">supprimer</a></span>
         </h3>
         
-        <p><em>Date - Nom de l'auteur</em></hp>
+        <p><em>Date - Nom de l'auteur</em></p>
         <p>Contenu de l'article</p>	
     	
     	
