@@ -12,7 +12,7 @@ Class Db{
     return self::$_connect;
     }
 }
-
+ 
 
 $db = Db::connect();
 $results = $db->query( 'SELECT * FROM articles' );
